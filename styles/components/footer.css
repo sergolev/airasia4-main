@@ -1,0 +1,37 @@
+.footer {
+    font-size: 14px;
+    position: relative;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding-bottom: 57px;
+}
+
+.footer__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__col {
+    display: flex;
+    align-items: center;
+}
+
+.footer__logo {
+    align-items: center;
+    display: inline-block;
+}
+
+.footer__col--align--right{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.footer__socials {
+    margin-left: 74px;
+}
+
+
+
